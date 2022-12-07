@@ -1,5 +1,4 @@
 Hi! I'm Armando.
-Im studying a licentiate on business intelligence and innovation at CETYS Universidad.
-I'm currently learning Python for data analysis and processing.
-I would like to learn about how data driven decisions help businesses improve.
-Take care!
+I'm studying a bachelor's in BI in CETYS University, I'm also a huge fan of data science video games and music.
+Currently learning how to use spark and pyspark.
+ゆっくりして〜
